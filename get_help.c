@@ -5,7 +5,6 @@
  * @datash: data structure (args and input)
  * Return: Return 0
 */
-
 int get_help(data_shell *datash)
 {
 

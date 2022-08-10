@@ -7,7 +7,6 @@
  * @i: index
  * Return: repetitions
  */
-
 int repeated_char(char *input, int i)
 {
 	if (*(input - 1) == *input)

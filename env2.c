@@ -8,7 +8,6 @@
  *
  * Return: new env or alias.
  */
-
 char *copy_info(char *name, char *value)
 {
 	char *new;
